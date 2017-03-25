@@ -1,0 +1,2 @@
+# Max-Filter
+This is an Assembly Language code for the MSP430G2553 that initializes an array in R5 with the first value of the array being the number of elements and the second value of the array being the max value allowed, known as the "filter". The program runs through the array and checks if any element in the array is larger than the filter, and if it is, it will set that element to the value equal to the filter.
